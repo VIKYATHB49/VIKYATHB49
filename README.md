@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sama Vikyath Reddy
-- 👀 I’m interested in ... FUll Stack Developer 
+- 👀 I’m interested in ... Full Stack Developer 
 - 📫 How to reach me ... samavikyath06394@gmail.com
 - 😄 Pronouns: ... Array!
 
